@@ -25,7 +25,6 @@ This project implements an idle combat game leveraging AI-driven character inter
 * **C#:** Programming language.
 * **LLMs:** For AI-driven dialogue and function calling.
 * **Speech-to-Text API (e.g., Whisper):** For voice command processing.
-* **Reflection:** For dynamic function invocation.
 
 ## Usage
 
