@@ -1,4 +1,3 @@
-# Idle-BattleGame
 # AI-Driven Idle Combat Game
 ## Project Overview
 
