@@ -27,13 +27,6 @@ This project implements an idle combat game leveraging AI-driven character inter
 * **Speech-to-Text API (e.g., Whisper):** For voice command processing.
 * **Reflection:** For dynamic function invocation.
 
-## Setup Instructions
-
-1.  Clone the repository.
-2.  Open the project in Unity.
-3.  Configure microphone and API keys for LLM and Speech-to-Text services.
-4.  Run the Unity scene.
-
 ## Usage
 
 * Use voice commands to interact with the character and control gameplay.
